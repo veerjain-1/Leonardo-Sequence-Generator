@@ -5,7 +5,7 @@
 /* Add any includes here */
 #include "hw1.h"
 
-int g_leonardo_array[ARRAY_SIZE] = {};
+//int g_leonardo_array[ARRAY_SIZE] = {};
 
 /*
  * Function to compute Leonardo sequence
