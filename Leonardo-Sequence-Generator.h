@@ -1,5 +1,5 @@
-#ifndef HW1_H
-#define HW1_H
+#ifndef Leonardo-Sequence-Generator_H
+#define Leonardo-Sequence-Generator_H
 
 #define ARRAY_SIZE 40
 extern int g_leonardo_array[ARRAY_SIZE];
@@ -10,4 +10,4 @@ extern int g_leonardo_array[ARRAY_SIZE];
 int compute_leonardo_sequence(int, int, int);
 int check_leonardo_sequence(int);
 
-#endif // HW1_H
+#endif

@@ -1,9 +1,9 @@
-/* Veer Jain, hw1.c, CS 240, Spring 2024
+/* Veer Jain, Leonardo-Sequence-Generator.c, Spring 2024
 * Last updated Jan 20, 2024
 */
 
 /* Add any includes here */
-#include "hw1.h"
+#include "Leonardo-Sequence-Generator.h"
 
 //int g_leonardo_array[ARRAY_SIZE] = {};
 

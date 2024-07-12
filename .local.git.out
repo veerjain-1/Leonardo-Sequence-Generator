@@ -1,0 +1,36 @@
+Your branch is up to date with 'origin/master'.
+[master f0429c2] Submission for homework hw1
+ Committer: Veer Vinay Jain <jain621@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 3 files changed, 179 insertions(+)
+ create mode 100644 hw1.c
+ create mode 100644 hw1.h
+ create mode 100644 hw1_main.c
+M	hw1.c
+Your branch is up to date with 'origin/master'.
+[master 6e8b631] Submission for homework hw1
+ Committer: Veer Vinay Jain <jain621@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 1 insertion(+), 1 deletion(-)
